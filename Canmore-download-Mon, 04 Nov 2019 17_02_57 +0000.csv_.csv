@@ -1,9 +1,5 @@
-Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.,,,,,,,,,,
-http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf,,,,,,,,,,
-"Canmore-download-Mon, 04 Nov 2019 17:02:57 +0000.csv",,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
+
+CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL,
 44353,NS56SE 870,"Glasgow, Govan, Prince's Dock",Dock (19th Century),256510,664990,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 5651 6499,http://canmore.org.uk/site/44353
 44157,NS56NE 880,"Glasgow, Stobcross, Queen's Dock",Dock (Period Unassigned),256790,665430,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 56790 65430,http://canmore.org.uk/site/44157
 168247,NS56NE 1938,"Glasgow, Kelvinhaugh Slip Dock",Dock (19th Century),256236,665680,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 56236 65680,http://canmore.org.uk/site/168247
