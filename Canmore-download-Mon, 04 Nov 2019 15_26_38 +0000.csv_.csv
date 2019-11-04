@@ -1,0 +1,17 @@
+Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.,,,,,,,,,,
+http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf,,,,,,,,,,
+"Canmore-download-Mon, 04 Nov 2019 15:26:38 +0000.csv",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
+68406,NS56NE 1180,"Glasgow, 18 Clydebrae Street, Govan Graving Docks","Dry Dock(S) (19th Century), Graffiti(S) (21st Century), Piece(S) (21st Century), Tag(S) (21st Century), Throw Up(S) (21st Century)",256090,665463,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 56090 65463,http://canmore.org.uk/site/68406
+278906,NS56NE 1181,"Glasgow, 18 Clydebrae Street, Govan Graving Docks, Graving Dock No. 1",Dry Dock (19th Century),256122,665499,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 56122 65499,http://canmore.org.uk/site/278906
+278907,NS56NE 1182,"Glasgow, 18 Clydebrae Street, Govan Graving Docks, Graving Dock No. 2",Dry Dock (19th Century),256107,665456,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 56107 65456,http://canmore.org.uk/site/278907
+278908,NS56NE 1183,"Glasgow, 18 Clydebrae Street, Govan Graving Docks, Graving Dock No.3",Dry Dock (19th Century),256120,665364,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 56120 65364,http://canmore.org.uk/site/278908
+44105,NS56NE 42,"Glasgow, Stobcross Docks",Hammer,256850,665270,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 5685 6527,http://canmore.org.uk/site/44105
+44254,NS56SE 12,"Glasgow, Kingston Dock",Polished Axehead (Stone),258200,664700,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 582 647,http://canmore.org.uk/site/44254
+173036,NS56SE 1200,"Glasgow, Kingston Dock, Swing Bridge",Swing Bridge (19th Century),258064,664758,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 58064 64758,http://canmore.org.uk/site/173036
+173856,NS56SE 12430,"Glasgow, Kingston Dock",Dock (19th Century),258160,664710,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 5816 6471,http://canmore.org.uk/site/173856
+220425,NS56SE 8004,"Warsash: Kingston Dock, Glasgow, River Clyde",Steamship (20th Century),258100,664700,"GLASGOW, CITY OF",NOT APPLICABLE,"MARITIME - GLASGOW, CITY OF",NS 581 647,http://canmore.org.uk/site/220425
+287963,NS56SE 12431,"Glasgow, Kingston Dock, Crane",Crane(S) (19-20th Century),258160,664710,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 5816 6471,http://canmore.org.uk/site/287963
+317038,NS56NE 5005,"Glasgow, Govan, 18 Govan Rd, Govan Graving Docks Pump House",Pump House (19th Century),256208,665280,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 56208 65280,http://canmore.org.uk/site/317038
