@@ -1,9 +1,4 @@
-Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.,,,,,,,,,,
-http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf,,,,,,,,,,
-"Canmore-download-Mon, 04 Nov 2019 15:26:38 +0000.csv",,,,,,,,,,
-,,,,,,,,,,
-,,,,,,,,,,
-CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
+CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL,
 68406,NS56NE 1180,"Glasgow, 18 Clydebrae Street, Govan Graving Docks","Dry Dock(S) (19th Century), Graffiti(S) (21st Century), Piece(S) (21st Century), Tag(S) (21st Century), Throw Up(S) (21st Century)",256090,665463,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 56090 65463,http://canmore.org.uk/site/68406
 278906,NS56NE 1181,"Glasgow, 18 Clydebrae Street, Govan Graving Docks, Graving Dock No. 1",Dry Dock (19th Century),256122,665499,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 56122 65499,http://canmore.org.uk/site/278906
 278907,NS56NE 1182,"Glasgow, 18 Clydebrae Street, Govan Graving Docks, Graving Dock No. 2",Dry Dock (19th Century),256107,665456,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 56107 65456,http://canmore.org.uk/site/278907
