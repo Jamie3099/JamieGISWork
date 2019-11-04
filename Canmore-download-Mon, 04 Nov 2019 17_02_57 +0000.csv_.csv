@@ -1,0 +1,14 @@
+Unless stated otherwise the Canmore dataset contains Ordnance Survey derived data which is delivered through Canmore website under the terms of the OPEN GOVERNMENT End User Licence.,,,,,,,,,,
+http://www.ordnancesurvey.co.uk/docs/licences/os-opendata-licence.pdf,,,,,,,,,,
+"Canmore-download-Mon, 04 Nov 2019 17:02:57 +0000.csv",,,,,,,,,,
+,,,,,,,,,,
+,,,,,,,,,,
+CANMORE ID,SITE NUMBER,SITE NAME,SITE TYPE,SITE EASTING,SITE NORTHING,COUNCIL,COUNTY,PARISH,NGR,URL
+44353,NS56SE 870,"Glasgow, Govan, Prince's Dock",Dock (19th Century),256510,664990,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 5651 6499,http://canmore.org.uk/site/44353
+44157,NS56NE 880,"Glasgow, Stobcross, Queen's Dock",Dock (Period Unassigned),256790,665430,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 56790 65430,http://canmore.org.uk/site/44157
+168247,NS56NE 1938,"Glasgow, Kelvinhaugh Slip Dock",Dock (19th Century),256236,665680,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 56236 65680,http://canmore.org.uk/site/168247
+173856,NS56SE 12430,"Glasgow, Kingston Dock",Dock (19th Century),258160,664710,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 5816 6471,http://canmore.org.uk/site/173856
+78695,NS56NW 64,"Glasgow, Shieldhall, King George V Dock",Dock (Period Unassigned),252891,666503,"GLASGOW, CITY OF",LANARKSHIRE,GOVAN (CITY OF GLASGOW),NS 52891 66503,http://canmore.org.uk/site/78695
+169692,NS66NW 2731,"Glasgow, Monkland Canal, Blackhill Locks, Upper Terminus And Dock","Boat Yard (Period Unassigned), Dock (Period Unassigned)",262890,666490,"GLASGOW, CITY OF",LANARKSHIRE,GLASGOW (CITY OF GLASGOW),NS 6289 6649,http://canmore.org.uk/site/169692
+349401,NS56NW 529,"River Clyde, Glasgow, Yoker",Dock (19th Century),250908,668688,"GLASGOW, CITY OF",LANARKSHIRE,RENFREW (CITY OF GLASGOW),NS 50908 68688,http://canmore.org.uk/site/349401
+354067,NS37SW 235,"Port Glasgow, Wet Dock",Dock,232460,674570,INVERCLYDE,RENFREWSHIRE,PORT GLASGOW,NS 32460 74570,http://canmore.org.uk/site/354067
