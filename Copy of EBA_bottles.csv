@@ -1,4 +1,4 @@
-FID,Site,Lat,Long,Period,Abs_date,Tot,Material,Comments,Reference
+FID,Site,Lat,Long,Period,Abs_date,Tot,Material,Comments,Reference,
 0,Acemhöyuk,38.4116,33.8355,EBA IIIa,2400-2200 BC,1,clay,"wheelmade, greyish clay which seems non-local (Grey Jazirah?)","Öztan 1989:409, fig.39"
 1,Alacahöyuk,40.2345,34.6953,EBA IIIb,2200-1950 BC,1,clay,without context provided,Çinaroglu et al. 2014: 8
 2,Alisar Hüyük (Amkuwa),39.6062,35.2616,EBA III,2300-2200 BC,2,clay,"1 wheelmade, with red slip (Anatolian), but not local because there is no local wheelmade production until level 5M, the other handmade (local?) with lugs (""breasts"") of typical Anatolian production","Schmidt 1932:43, fig.45; von
