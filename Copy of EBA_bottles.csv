@@ -1,0 +1,64 @@
+FID,Site,Lat,Long,Period,Abs_date,Tot,Material,Comments,Reference
+0,Acemhöyuk,38.4116,33.8355,EBA IIIa,2400-2200 BC,1,clay,"wheelmade, greyish clay which seems non-local (Grey Jazirah?)","Öztan 1989:409, fig.39"
+1,Alacahöyuk,40.2345,34.6953,EBA IIIb,2200-1950 BC,1,clay,without context provided,Çinaroglu et al. 2014: 8
+2,Alisar Hüyük (Amkuwa),39.6062,35.2616,EBA III,2300-2200 BC,2,clay,"1 wheelmade, with red slip (Anatolian), but not local because there is no local wheelmade production until level 5M, the other handmade (local?) with lugs (""breasts"") of typical Anatolian production","Schmidt 1932:43, fig.45; von
+der Osten 1937a:171, fig.168.d2762"
+3,Amarna,36.392,37.4593,EBA III-IV,2500-2200 BC,2,clay, ,Orthmann 1963: Pl. 95: 1.2; Woolley 1914: Pl. XXIII: 13
+4,Arslantepe,38.4079,38.304,EBA III,2300-2200 BC,2,clay, ,"Conti and Persiani 1993: 386, Fig. 12:4,12"
+5,Eskiyapar,40.1583,34.773,EBA III,2200-1950 BC,1,silver,in a cache with hundred gold and silver objects,"Özgüç and Temizer 1993:617, pl.116.1"
+6,Fara (Shuruppak),31.7776,45.5097,ED III,2600-2350 BC,1,clay, ,Schachner and Schachner 1995: 83-85
+7,Gaziantep,37.0664,37.3834,EBA,3rd mill.,1,clay, ,Schachner and Schachner 1995: 92
+8,Gedikli Höyük,37.2202,36.8304,EBA III-IV,2500-2200 BC,2,clay, ,"Alkim and Alkim 1966: Fig. 32; Alkim 1979: 140, Pl. 91: 26"
+9,Girnavaz Höyuk,37.1051,41.2305,late EBA,2500-2000 BC,0,clay,number of items not specified in publication,"Akyurt et al. 1993: 271, fig.8"
+10,Gözlü Kule (Tarsa),36.9119,34.8959,EBA II,2600-2400,1,lead, ,"Goldman 1956:303, pl.435.11"
+11,Gre Virike,36.9261,38.0146,EBA III-IV,2400-2000 BC,2,clay, ,"Ökse 2001: 271, 300 Fig. 8,3, 19,c"
+12,Hama,35.1359,36.7495,EBA IV,2300-2000 BC,2,clay, ,"Fugmann 1958: Fig. 93:3A, Fig. 98:3A"
+13,Harran,36.8663,39.0316,EBA,3rd mill.,0,clay,number of items not specified in publication,Pruß 2001: Fig. 4
+14,Hazarsah,38.79,35.9773,late EBA,2500-2000 BC,1,clay,wheelmade bottle fragment in greyish ware (Grey Jazirah?),"Brown 1967:150-151, 158,
+fig.16"
+15,Hisarlik (Troy),39.9575,26.2383,EBA III,2300-2200 BC,1,gold, ,"Schliemann 1881:520-521, fig. 775"
+16,Kara Hassan,36.611,38.2255,EBA III-IV,2500-2200 BC,1,clay, ,Woolley 1914: Pl. XIXb: 2
+17,Karahöyuk (Ikkuwaniya?),37.8203,32.4477,late EBA, ,1,clay,without context,Schachner and Schachner 1995:91
+18,Kestel,37.8074,34.907,EBA III,2300-2100 BC,1,clay,made in Metallic Ware,Yener 2000:95-96
+19,Khafajah/Hafagi,33.3557,44.5556,ED III,2600-2350 BC,1,clay, ,Delougaz 1952: Pl. 164B.666.540b
+20,Kinet Höyuk,36.8538,36.1568, EBA IV,2200-1950 BC,1,clay, ,Zimmermann 2005:161-162
+21,Kullu¨oba,39.5567,30.7437,EBA III,2300-2100 BC,11,clay,made in Metallic Ware (6) and Anatolian (non-local) wares (4),Tu¨rkteki 2010:170-171; Tu¨rkteki 2012:68
+22,Kültepe (Kanesh),38.8502,35.6353,EBA II,2500-2400 BC,4,clay,made in Metallic Ware (3) and local ware (1),Özgüç 1986:37-38
+23,Kurban Höyuk,37.4568,38.405,EBA III,2400-2150 BC,8,clay, ,"Algaze 1990: Pl. 78:C, Pl. 104: A-B, Pl. 133: G-I, Pl. 149:D"
+24,Lidar Höyuk,37.5614,38.6061,EBA II-III,2600-2200,2,clay, ,Mellink 1982: Pl. 73:7; Mellink 1983: Pl. 58:8
+25,Müslümantepe,37.8038,40.9364,ETG 4,2800-2500 BC,1,clay, ,Ay et al. 2014: 126
+26,Norsuntepe,38.6223,39.4724,EBA III,2500-2200 BC,1,clay, ,"Hauptmann 1969/70: 53, Fig. 12:9"
+27,Ovaören,38.608,34.2971,EB IIIa,2400-2200 BC,1,clay, ,Senyurt et al. 2015: 112-113
+28,Oylum Höyuk,36.699,37.178,EBA III-IV,2350-2000 BC,3,clay, ,Özgen 1989/90: Fig. 1:5–7
+29,Palamari,38.8833,24.517,EBA III,2200-2100 BC,1,clay,"wheelmade, Anatolian ware",Rahmstorf 2006b:85
+30,Qara Quzaq,36.6327,38.2148,EBA III-IV,2400-2150 BC,1,clay, ,Valdés Pereiro 1994: Fig. 16:6
+31,Saraqib,35.8636,36.801,EBA IV,2400-2200 BC,1,clay, ,"Suleiman and Gritsenko 1986: 62, Fig.2: 12"
+32,Sos Höyük,39.99,41.52,late EB III,2200-2000 BC,1,clay,black polished ware (Black Euphrates Ware?),"Sagona et al. 1996: 37, 44, fig. 10.9"
+33,Tawi,36.1786,37.9667,EBA IV,2350-2150 BC,2,clay, ,Kampschulte and Orthmann 1984: Pl. 59:30
+34,Tell Abu Salabikh,32.2662,45.0829,ED III,2600-2350 BC,5,clay, ,"Moon 1987: 64, Fig. 323-327"
+35,Tell Beydar,36.7371,40.5807,Akkadian,2350-2250 BC,14,clay, ,"Breitschneider and Cunningham 2007: 107, Fig. 25:58192(C6-8, C13/2, C14) Fig. 26:58192(C16,C23-27), Fig. 27:58192(C35-38)"
+36,Tell Bi'a (Tuttul),35.9577,39.0477,Akkadian,2350-2150 BC,18,clay, ,"Becker and Kohlmeyer 1984: 62-63, Fig. 37:59, Fig. 78:15;  Strommenger and Kohlmeyer 1998: Pl. 177; Bosze 2009, 32, Pl. 21: EF1, Pl. 26:EF1-4"
+37,Tell Brak (Nagar),36.6673,41.0579,Akkadian -Ur III,2350-2000 BC,14,clay, ,"Fielden 1977: Pl. XI: 26, Pl. XII:5; Mallowan 1947: Pl. LXVIII:3; Oates, Oates and McDonald 2001:159, Fig.190, Fig. 399: 194-204"
+38,Tell Chuera,36.6458,39.498,ED III-Akkadian,2400-2100 BC,5,clay, ," Kühne 1976: Fig. 65-68, 70"
+39,Tell el-Ashaa (Terqa),34.9223,40.5684,EBA III,2500-2400 BC,2,clay, ,"Kelly-Buccellati and Shelby 1977: 53, Fig. 25: 4, 64"
+40,Tell es-Sweyhat,36.2741,38.2539,EBA IV,2400-2200 BC,1,clay, ,"Holland 1977: 49, Fig. 4:7"
+41,Tell Galabovo,42.1333,25.85,EBA IV,2200-1950 BC,1,clay,"wheelmade, central Anatolian ware. In the same context with other Anatolian imported vessels","Leshtakov 2002:187, fig.11.1"
+42,Tell Gidle,36.6578,39.1006,Akkadian,2350-2150 BC,1,clay, ,Mallowan 1946: Fig. 9:12
+43,Tell Habuba Kabira,36.1649,38.0682,EBA IV,2100-2000 BC,1,clay, ,Strommenger 1970: Fig. 12d
+44,Tell Hadidi,36.2637,38.1509,EBA IV,2400-2200 BC,1,clay, ,"Dornemann 1979: 128, Fig. 15: 14"
+45,Tell Halawa,36.0739,38.0162,EBA III,2500-2400 BC,2,clay, ,Orthmann 1981: Pl. 59: 29-30
+46,Tell Hammam et-Turkman,36.483,39.057,EBA IV,2400-2300 BC,2,clay, ,"van Loon 1988: 394, Fig. 122: 72-73"
+47,Tell Hariri (Mari),34.5505,40.89,EBA III-IV,2500-2200 BC,4,clay, ,"Parrot 1956: 107, 218, Fig. 100: 379, Fig. 106:691-692; Lebeau 1985: Pl. XI:11"
+48,Tell Jerablus Tahtani,36.7901,38.0212,EME 4-5,2350-2250 BC,21,clay,alabastra and globular types,"Peltenburg et al. 2015: pl.6.18-19, pl.15.25-26, pl.17.11, pl.20.8, pl.21.9, pl.22.18, pl.24.9, pl.25.2/8/11, pl.33.2/32, pl.40.4-6, pl.41.18, pl.42.9, pl.45.5, pl.48.5"
+49,Tell Mardikh (Ebla),35.7989,36.7983,EBA IV,2400-2250 BC,10,clay, ,"Mazzoni 1985:2, Fig. 3: 6-7, 9-10, 13-14"
+50,Tell Melebiya,36.4053,40.8117,Akkadian,2350-2250 BC,3,clay, ,Lebeau 1993: Pl. 176: 1-3
+51,Tell Muqayyar (Ur),30.9604,46.0838,ED III,2600-2350 BC,3,clay, ,Woolley 1934: Pl. 257: 106a-b; Kühne 1976: Pl. 47:2
+52,Tell Šams ed-Din,36.2488,38.1743,EBA III-IV,2500-2200 BC,4,clay, ,"Meyer 1991: Pl.12: 20, Pl. 20: 29-30, Pl. 22: 25"
+53,Tell Shiyukh Tahtani,36.772,38.0469,EBA IV,2200-1950 BC,0,clay,"number of items not specified in publication, but described as ""a series of Syrian bottles""",Falsone and Sconzo 2010: 2.
+54,Tell Taynat,36.2475,36.376,EBA IV,2400-2200 BC,1,clay,Ring Burnished Ware,"Braidwood and Braidwood 1960: 451, Fig. 348"
+55,Tell Uhaimir (Kiš),32.552,44.5856,ED II-III,2700-2350 BC,6,clay, ,"Langdon 1924: Pl. XXIX:2; Langdon and Watelin 1934: Pl. XVI: 3; Mackay 1925: Pl. LIII: 45, 57; Kühne 1976: Pl. 42: 3,7"
+56,Tilbesar Höyuk,36.8735,37.5584,EBA III-IV,2500-2100 BC,2,clay, ,"Kepinski 2005: Fig. 4:18, Fig.5:21"
+57,Tilmen Höyuk,37.03,36.7045,EBA III,2500-2200 BC,1,clay, ,Alkim 1964: Fig. 26
+58,Titris Höyük,37.4761,38.6764,EBA III,2500-2000 BC,2,clay, ,"Algaze, Misir and Wilkinson 1992: 38, 56, Fig. 11"
+59,Wreide,36.2586,38.0726,EBA III,2450-2300 BC,11,clay, ,"Orthmann and Rova 1991: Fig. 18: W54A(77-80), Fig. 23: W54C(73-76), Fig. 26: W66(20), Fig. 27:W86A(02), Fig. 29: W86B(28)"
+60,Zincirli Höyük,37.1036,36.679,EBA,3rd mill.,2,clay, ,"Andrae 1943: Pl. 26:g,k"
